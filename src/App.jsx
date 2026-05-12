@@ -3,12 +3,21 @@
  * through the episodes of a variety of different shows.
  */
 export default function App() {
+  
+
+
+
+
+
+
   return (
     <>
       <header>
         <p>React TV</p>
       </header>
-      <main></main>
+      <main>
+        <ShowDetails
+      </main>
     </>
   );
 }
